@@ -1,8 +1,8 @@
-using UnityEngine;
+[代码](../../../Assets/Scripts/Framework/MonoSingleton.cs)
 
-namespace Framework
-{
-    public class MonoSingleton<T> :MonoBehaviour where T:MonoSingleton<T>
+```c#
+
+ public class MonoSingleton<T> :MonoBehaviour where T:MonoSingleton<T>
     {
         private static T _instance;
 
@@ -22,4 +22,7 @@ namespace Framework
         }
 
     }
-}
+    
+```
+
+ * 单例的一种实现。单例有很多实现方法，找到一种方便快捷适合自己的就好了.
