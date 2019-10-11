@@ -8,4 +8,4 @@ Unity base game framework pure C# project
 
 
 
-### TODO SoundManager SceneManager ResourcesManager Loading EventBus Extension Animations ...... 后面会陆续的添加进来 
+### TODO: SoundManager SceneManager ResourcesManager Loading EventBus Extension Animations ...... 后面会陆续的添加进来 
