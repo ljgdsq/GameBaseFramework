@@ -9,3 +9,6 @@ Unity base game framework pure C# project
 
 
 ### TODO: SoundManager SceneManager ResourcesManager Loading EventBus Extension Animations Json配置 Debug Release 发布版本切换环境切换...... 后面会陆续的添加进来 
+
+
+### 资源规划 命名规范 国际化方式
